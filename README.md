@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdul Sultan<br>👀 I’m into software Development & Engineering<br>🌱 I have completed HTML, CSS, JavaScript, Node JS, Express JS & ReactJS<br>🚧 Now studying Fullstack Software Engineering at ALX SE<br>💞️ I’m looking forward to collaborating on any project related to what I am learning<br>📫 You can always reach me at @abdulsultans on Twitter.
+👋 Hi, I’m Abdul Sultan<br>👀 I’m into software Development & Engineering<br>🌱 I have acquireed knowledge in the following: HTML, CSS, JavaScript, MongoDB, Node JS, Express JS & ReactJS<br>🚧 Now studying Fullstack Software Engineering at ALX SE<br>💞️ I’m looking forward to collaborating on any project related to what I am learning<br>📫 You can always reach me at @abdulsultans on Twitter.
 
 
 ## 🌐 Socials:
